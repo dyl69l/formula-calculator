@@ -22,3 +22,5 @@ def velocity():
     else:
         print(f"Resulting velocity: {u_prime:.4f} m/s")
         print(f"As a fraction of the speed of light: {u_prime / c:.8f} c")
+
+velocity()
